@@ -5,7 +5,7 @@ Los archivos ipynb se han escrito en Visual Studio Code, por si hay algun inconv
 ##### Prácticos:
 - [x] 1 [Cinemática]
 - [x] 2 [Dinámica]
-- [ ] 3 [Trabajo y Energía Mecánica + Anexo]
+- [x] 3 [Trabajo y Energía Mecánica + Anexo]
 - [ ] 4 [Momentos Lineal y Angular]
 - [ ] 5 [...]
 - [ ] 6 [...]
