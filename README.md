@@ -12,4 +12,7 @@ Los archivos ipynb se han escrito en Visual Studio Code, por si hay algun inconv
 - [ ] 7 [...]
 - [ ] 8 [...]
 
+##### Problema entregables:
+- [x] [Tiro oblicuo]
+
 :warning: Estos archivos pueden cambiar en cualquier momento
