@@ -15,4 +15,5 @@ Los archivos ipynb se han editado en Visual Studio Code, por si hay algun inconv
 ##### Problemas entregables:
 - [x] [Tiro oblicuo]
 
-:warning: Estos archivos pueden cambiar en cualquier momento
+:warning: Estos archivos pueden cambiar en cualquier momento  
+:warning: ¡Seguramente hay errores! Ver con cuidado
