@@ -10,7 +10,6 @@ Los archivos ipynb se han editado en Visual Studio Code, por si hay algun inconv
 - [ ] 5 [...]
 - [ ] 6 [...]
 - [ ] 7 [...]
-- [ ] 8 [...]
 
 ##### Problemas entregables:
 - [x] [Tiro oblicuo]
