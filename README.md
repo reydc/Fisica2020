@@ -1,12 +1,12 @@
 # Fisica2020
-Ejercicios de Física de FaMAFyC para el año 2020.  
+Ejercicios de Física de FaMAFyC/FaMAF para el año 2020.  
 Los archivos ipynb se han editado en Visual Studio Code, por si hay algun inconveniente para visualizar.  
 
 ##### Prácticos:
 - [x] 1 [Cinemática]
 - [x] 2 [Dinámica]
 - [x] 3 [Trabajo y Energía Mecánica + Anexo]
-- [ ] 4 [Momentos Lineal y Angular]
+- [x] 4 [Electrostática]
 - [ ] 5 [...]
 - [ ] 6 [...]
 - [ ] 7 [...]
